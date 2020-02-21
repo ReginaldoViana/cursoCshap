@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\User\Desktop\Cursos\Curso C#\Udemy\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
